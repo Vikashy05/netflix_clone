@@ -1,0 +1,2 @@
+# netflix_clone
+IT IS CLONE WEB PAGE OF NETFLIX
